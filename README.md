@@ -21,7 +21,7 @@ sudo apt-get install build-essential python3-dev
 ````
 
 ````
-git clone https://github.com/jugend-programmiert/Python_DHT
+git clone https://github.com/devnetcoding/Python_DHT.git
 cd Python_DHT
 ````
 
